@@ -1,0 +1,32 @@
+html{
+    background-color:b9ffd8;
+    color:4d4d4d;
+    font-family: cursive;
+    font-size: 22px;
+}
+
+.image{
+    height:200;
+    width:300;
+    border: 5px solid #0a9f6f;
+    border-radius: 10px;
+    padding: 3px;
+    margin:20px;
+}
+
+a:link{
+    text-decoration: none;
+    font-size: 35px;
+}
+a:hover{
+    color: red;
+}
+
+header{
+    text-align:center;
+    font-size: 35px;
+}
+
+#pokemon{
+    color: #e600ac;
+}
